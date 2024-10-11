@@ -26,7 +26,7 @@ team{display:block;max-width:42em;margin:0 auto; text-align:center;}
 }
 
 /* Display the columns below each other instead of side by side on small screens */
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 650px) {
     .column {
 	width: 100%;
 	display: block;
